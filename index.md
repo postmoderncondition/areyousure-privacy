@@ -1,31 +1,31 @@
-Privacy Policy
+<h1>Privacy Policy</h1>
 
-AreYouSure respects your privacy. This Privacy Policy explains how information is handled when you use the app.
+<p>AreYouSure respects your privacy. This Privacy Policy explains how information is handled when you use the app.</p>
 
-1. Personal Data
+<b>1. Personal Data</b>
 
-AreYouSure does not require you to create an account and does not collect personally identifiable information such as your name, email address, or phone number. Any assumptions or notes you create in the app are stored locally on your device.
+<p>AreYouSure does not require you to create an account and does not collect personally identifiable information such as your name, email address, or phone number. Any assumptions or notes you create in the app are stored locally on your device.</p>
 
-2. App Usage Data
+<b>2. App Usage Data</b>
 
-AreYouSure does not track user behavior, analytics, or usage patterns. No advertising or tracking technologies are used.
+<p>AreYouSure does not track user behavior, analytics, or usage patterns. No advertising or tracking technologies are used.</p>
 
-3. Network Requests and AI Features
+<b>3. Network Requests and AI Features</b>
 
-Some features (such as the optional “Second Opinion”) may send user-provided text to a remote service in order to generate AI-based responses. Only the text you explicitly submit for this purpose is sent. No personal identifiers are attached to these requests. The transmitted data is used solely to generate a response and is not used for advertising.
+<p>Some features (such as the optional “Second Opinion”) may send user-provided text to a remote service in order to generate AI-based responses. Only the text you explicitly submit for this purpose is sent. No personal identifiers are attached to these requests. The transmitted data is used solely to generate a response and is not used for advertising.</p>
 
-4. Data Storage
+<b>4. Data Storage</b>
 
-All assumptions and confidence ratings are stored locally on your device. The app does not upload or sync your data to a personal account.
+<p>All assumptions and confidence ratings are stored locally on your device. The app does not upload or sync your data to a personal account.</p>
 
-5. Third-Party Services
+<b>5. Third-Party Services</b>
 
-AreYouSure may rely on third-party services to process AI-generated responses. These services process data only for the requested functionality.
+<p>AreYouSure may rely on third-party services to process AI-generated responses. These services process data only for the requested functionality.</p>
 
-6. Children’s Privacy
+<b>6. Children’s Privacy</b>
 
-AreYouSure is not designed for children under the age of 13 and does not knowingly collect personal data from children.
+<p>AreYouSure is not designed for children under the age of 13 and does not knowingly collect personal data from children.</p>
 
-7. Changes to This Policy
+<b>7. Changes to This Policy</b>
 
-This Privacy Policy may be updated as the app evolves. Changes will be reflected within the app or on this page.
+<p>This Privacy Policy may be updated as the app evolves. Changes will be reflected within the app or on this page.</p>
